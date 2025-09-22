@@ -41,20 +41,16 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>AI-Powered Smart Crop Advisory System</h3>
 <ul><li>The solution leverages **AI-powered disease detection**, **voice-enabled interfaces in regional languages**, and **integration of weather, soil, and remote sensing data** to provide farm-specific, real-time advisories. Farmers can upload crop images via smartphone, or receive voice/SMS/IVR-based updates on basic phones. The system delivers guidance on disease management, pest control, irrigation scheduling, and crop selection, tailored to local conditions.</li>
 <li>Overcomes **literacy and accessibility barriers** by using regional language voice support. - Provides **early detection of pests and diseases**, reducing crop losses. - Ensures **optimal water usage** through irrigation scheduling based on weather and soil data. - Helps farmers make **better crop selection decisions** using market trends, soil type, and yield history. - Increases overall productivity, reduces risks, and improves income stability for farmers.</li>
 <li></li></ul>*AI image recognition** with **multi-channel advisory delivery** (smartphone app + IVR/SMS for basic phones). - Uses **real-time integration** of local weather stations, soil sensors, and remote sensing data for precision farming. - Provides **voice-based interaction in multiple regional languages**, bridging the literacy gap. - Offers **data-driven, personalized recommendations** instead of generic advisories. - Scalable and adaptable across different crops, regions, and farmer profiles
 
 ## Technical Approach
-<h3>AI-Powered Image Recognition</h3>
 <ul><li>Farmers upload crop images via smartphone; AI/ML models identify diseases and pests with high accuracy.
 Voice & Multi-Language Support:IVR and voice-based advisory in regional languages ensure accessibility for farmers with low literacy or basic phones.Data Integration:Weather stations, soil sensors, and satellite/remote sensing data are integrated to generate localized and farm-specific insights.Irrigation & Crop Advisory Models:Evapotranspiration models and historical yield/market data guide irrigation scheduling and optimal crop selection.
-</li>
-<li></b></li></ul>
+</li></ul>
 
 ## Feasibility and Viability
-<h3>Feasibility and Viability of the farmer agriculture</h3>
 <ul>Technical Feasibility: The project leverages widely available technologies such as AI, smartphone apps, IVR, SMS, and IoT devices (soil sensors, weather stations). Existing machine learning models for crop disease detection and pest identification can be adapted.<li></li>
 <li>Financial Feasibility: Development and deployment costs are moderate compared to the long-term benefits of increased crop yield, optimized resource usage, and farmer income.
 Legal and Regulatory Feasibility: No major legal barriers exist for implementing AI-based advisory services in agriculture; compliance with data privacy laws </li>
