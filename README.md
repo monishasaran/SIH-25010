@@ -51,17 +51,27 @@ Voice & Multi-Language Support:IVR and voice-based advisory in regional language
 </li></ul>
 
 ## Feasibility and Viability
-<ul>Technical Feasibility: The project leverages widely available technologies such as AI, smartphone apps, IVR, SMS, and IoT devices (soil sensors, weather stations). Existing machine learning models for crop disease detection and pest identification can be adapted.<li></li>
+<li><ul>Technical Feasibility: The project leverages widely available technologies such as AI, smartphone apps, IVR, SMS, and IoT devices (soil sensors, weather stations). Existing machine learning models for crop disease detection and pest identification can be adapted.<li></li>
 <li>Financial Feasibility: Development and deployment costs are moderate compared to the long-term benefits of increased crop yield, optimized resource usage, and farmer income.
 Legal and Regulatory Feasibility: No major legal barriers exist for implementing AI-based advisory services in agriculture; compliance with data privacy laws </li>
 <li>Economic Viability: Higher yields and reduced input costs translate to improved farmer income, making the solution financially sustainable.
 Market Viability: There is strong demand among farmers for accessible, reliable, and actionable agricultural advice, especially in regions lacking extension services</li></ul>
 
 ## Impact and Benefits
-<h3></h3>
-<ul><li></li>
-<li></li></ul>
+<ul><li>Impact
+Empowers Farmers: Provides knowledge-driven guidance for crop selection, fertilizers, pest management, and irrigation, reducing reliance on guesswork.
+Increases Productivity and Income: Optimized practices lead to higher yields and lower input costs, improving farmer livelihoods.
+Enhances Efficiency and Sustainability: Data-driven farming reduces waste, improves resource use, and contributes to national food security.
+Promotes Rural Development: Knowledge empowerment supports economic growth in rural areas and reduces poverty.</li>
+<li>Benefits
+AI-Powered Disease Detection: Quick identification of crop diseases via mobile image uploads, reducing crop losses.
+Inclusive Access: Voice-based interfaces in regional languages, IVR/SMS support ensures even low-literacy farmers can use the system.
+Farm-Specific Recommendations: Integration with local weather stations, soil sensors, and remote sensing data for precise advice.
+Early Pest and Disease Alerts: Real-time notifications via image recognition improve timely interventions.
+Optimized Irrigation: Scheduling based on weather forecasts and evapotranspiration models saves water and increases efficiency.
+Better Crop Selection: Guidance based on soil type, historical yields, and market demand maximizes profitability.
+Long-Term Sustainability: Improved farming efficiency supports environmental sustainability and reduces dependency on chemical inputs.</li></ul>
 
 ## Research and References
-<h3>Remove These Lines</h3>
+
 <ul><li>Details / Links of the reference and research work</li></ul>
