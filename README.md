@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:22.09.2025
+## Register Number:25017984
+## Name:Monisha S
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -44,12 +44,15 @@ Agriculture, FoodTech & Rural Development
 <ul><li>The solution leverages **AI-powered disease detection**, **voice-enabled interfaces in regional languages**, and **integration of weather, soil, and remote sensing data** to provide farm-specific, real-time advisories. Farmers can upload crop images via smartphone, or receive voice/SMS/IVR-based updates on basic phones. The system delivers guidance on disease management, pest control, irrigation scheduling, and crop selection, tailored to local conditions.</li>
 <li>Overcomes **literacy and accessibility barriers** by using regional language voice support. - Provides **early detection of pests and diseases**, reducing crop losses. - Ensures **optimal water usage** through irrigation scheduling based on weather and soil data. - Helps farmers make **better crop selection decisions** using market trends, soil type, and yield history. - Increases overall productivity, reduces risks, and improves income stability for farmers.</li>
 <li>*AI image recognition** with **multi-channel advisory delivery** (smartphone app + IVR/SMS for basic phones). - Uses **real-time integration** of local weather stations, soil sensors, and remote sensing data for precision farming. - Provides **voice-based interaction in multiple regional languages**, bridging the literacy gap. - Offers **data-driven, personalized recommendations** instead of generic advisories. - Scalable and adaptable across different crops, regions, and farmer profiles</li></ul>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6a827497-4de4-43c0-b819-675bbd33cdc7" />
+
 
 
 ## Technical Approach
 <li>Farmers upload crop images via smartphone; AI/ML models identify diseases and pests with high accuracy.
 Voice & Multi-Language Support:IVR and voice-based advisory in regional languages ensure accessibility for farmers with low literacy or basic phones.Data Integration:Weather stations, soil sensors, and satellite/remote sensing data are integrated to generate localized and farm-specific insights.Irrigation & Crop Advisory Models:Evapotranspiration models and historical yield/market data guide irrigation scheduling and optimal crop selection.
 </li></ul>
+<img width="538" height="513" alt="Screenshot 2025-09-22 115452" src="https://github.com/user-attachments/assets/124877b6-de59-46dd-a90c-92109485cd39" />
 
 ## Feasibility and Viability
 <li>Technical Feasibility: The project leverages widely available technologies such as AI, smartphone apps, IVR, SMS, and IoT devices (soil sensors, weather stations). Existing machine learning models for crop disease detection and pest identification can be adapted.</li>
