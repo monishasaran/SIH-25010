@@ -75,34 +75,20 @@ Long-Term Sustainability: Improved farming efficiency supports environmental sus
 ## Research and References
 
 <ul><li>AI & Machine Learning in Agriculture:
-
 Crop disease detection using image recognition.
-
 Pest identification and prediction models.
-
 Precision Agriculture:
-
 Use of soil sensors, weather data, and remote sensing for optimized irrigation and fertilization.
-
 Digital Inclusion:
-
 Voice-based interfaces and IVR/SMS solutions for farmers with low literacy.
-
 Economic and Social Impact Studies:
-
 Improving farmer income, productivity, and rural livelihoods through data-driven farming.
+
 2. References
-
 FAO. Digital Agriculture: Opportunities and Challenges. Food and Agriculture Organization, 2020.
-
 Liakos, K.G., et al. Machine Learning in Agriculture: A Review. Sensors, 2018.
-
 Kamilaris, A., & Prenafeta-Boldú, F.X. Deep learning in agriculture: A survey. Computers and Electronics in Agriculture, 2018.
-
 Ministry of Agriculture & Farmers Welfare, Government of India. Annual Report 2022-23.
-
 Jain, R., & Kumar, P. AI-based Crop Disease Detection: An Indian Perspective. International Journal of Agricultural Science, 2021.
-
 World Bank. ICT in Agriculture: Connecting Smallholders to Knowledge, Networks, and Institutions. 2019.
-
 Remote Sensing and GIS applications in precision farming: Journal of Precision Agriculture, 2020.</li></ul>
