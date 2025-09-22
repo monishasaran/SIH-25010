@@ -44,6 +44,58 @@ Agriculture, FoodTech & Rural Development
 <ul><li>The solution leverages **AI-powered disease detection**, **voice-enabled interfaces in regional languages**, and **integration of weather, soil, and remote sensing data** to provide farm-specific, real-time advisories. Farmers can upload crop images via smartphone, or receive voice/SMS/IVR-based updates on basic phones. The system delivers guidance on disease management, pest control, irrigation scheduling, and crop selection, tailored to local conditions.</li>
 <li>Overcomes **literacy and accessibility barriers** by using regional language voice support. - Provides **early detection of pests and diseases**, reducing crop losses. - Ensures **optimal water usage** through irrigation scheduling based on weather and soil data. - Helps farmers make **better crop selection decisions** using market trends, soil type, and yield history. - Increases overall productivity, reduces risks, and improves income stability for farmers.</li>
 <li>*AI image recognition** with **multi-channel advisory delivery** (smartphone app + IVR/SMS for basic phones). - Uses **real-time integration** of local weather stations, soil sensors, and remote sensing data for precision farming. - Provides **voice-based interaction in multiple regional languages**, bridging the literacy gap. - Offers **data-driven, personalized recommendations** instead of generic advisories. - Scalable and adaptable across different crops, regions, and farmer profiles</li></ul>
+               ┌──────────────────────────────┐
+               │        User Interface        │
+               │ ┌─────────┐  ┌───────────┐ │
+               │ │Mobile   │  │ IVR/SMS   │ │
+               │ │App      │  │ Interface │ │
+               └─────┬────┘  └─────┬─────┘
+                     │             │
+                     ▼             ▼
+               ┌───────────────────────────┐
+               │     Data Collection       │
+               │ ┌───────────────┐         │
+               │ │Farmer Inputs  │         │
+               │ │Images, Soil   │         │
+               │ └──────┬────────┘         │
+               │ ┌───────────────┐         │
+               │ │ Sensors & IoT │         │
+               │ │ Soil, Weather │         │
+               │ └──────┬────────┘         │
+               │ ┌───────────────┐         │
+               │ │ Remote Data   │         │
+               │ │ Satellite,    │         │
+               │ │ Market, Weather│        │
+               └───────┬─────────┘
+                       │
+                       ▼
+               ┌───────────────────────────┐
+               │    Processing Layer       │
+               │ ┌───────────────┐         │
+               │ │ AI/ML Models  │         │
+               │ │ Disease, Pest │         │
+               │ │ Irrigation,   │         │
+               │ │ Crop Selection│         │
+               │ └──────┬────────┘         │
+               │ ┌───────────────┐         │
+               │ │ Data Analytics│         │
+               │ │ & Integration │         │
+               └──────┬─────────┘
+                      │
+                      ▼
+               ┌───────────────────────────┐
+               │ Output / Notifications    │
+               │ Farm advice, alerts, crop │
+               │ recommendations           │
+               └──────┬─────────┘
+                      │
+                      ▼
+               ┌───────────────────────────┐
+               │       Database Layer       │
+               │ Historical data, farmer    │
+               │ profiles, advisory logs    │
+               └───────────────────────────┘
+
 
 ## Technical Approach
 <li>Farmers upload crop images via smartphone; AI/ML models identify diseases and pests with high accuracy.
@@ -51,7 +103,7 @@ Voice & Multi-Language Support:IVR and voice-based advisory in regional language
 </li></ul>
 
 ## Feasibility and Viability
-<li><ul>Technical Feasibility: The project leverages widely available technologies such as AI, smartphone apps, IVR, SMS, and IoT devices (soil sensors, weather stations). Existing machine learning models for crop disease detection and pest identification can be adapted.<li></li>
+<li>Technical Feasibility: The project leverages widely available technologies such as AI, smartphone apps, IVR, SMS, and IoT devices (soil sensors, weather stations). Existing machine learning models for crop disease detection and pest identification can be adapted.</li>
 <li>Financial Feasibility: Development and deployment costs are moderate compared to the long-term benefits of increased crop yield, optimized resource usage, and farmer income.
 Legal and Regulatory Feasibility: No major legal barriers exist for implementing AI-based advisory services in agriculture; compliance with data privacy laws </li>
 <li>Economic Viability: Higher yields and reduced input costs translate to improved farmer income, making the solution financially sustainable.
