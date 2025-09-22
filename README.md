@@ -44,57 +44,6 @@ Agriculture, FoodTech & Rural Development
 <ul><li>The solution leverages **AI-powered disease detection**, **voice-enabled interfaces in regional languages**, and **integration of weather, soil, and remote sensing data** to provide farm-specific, real-time advisories. Farmers can upload crop images via smartphone, or receive voice/SMS/IVR-based updates on basic phones. The system delivers guidance on disease management, pest control, irrigation scheduling, and crop selection, tailored to local conditions.</li>
 <li>Overcomes **literacy and accessibility barriers** by using regional language voice support. - Provides **early detection of pests and diseases**, reducing crop losses. - Ensures **optimal water usage** through irrigation scheduling based on weather and soil data. - Helps farmers make **better crop selection decisions** using market trends, soil type, and yield history. - Increases overall productivity, reduces risks, and improves income stability for farmers.</li>
 <li>*AI image recognition** with **multi-channel advisory delivery** (smartphone app + IVR/SMS for basic phones). - Uses **real-time integration** of local weather stations, soil sensors, and remote sensing data for precision farming. - Provides **voice-based interaction in multiple regional languages**, bridging the literacy gap. - Offers **data-driven, personalized recommendations** instead of generic advisories. - Scalable and adaptable across different crops, regions, and farmer profiles</li></ul>
-               ┌──────────────────────────────┐
-               │        User Interface        │
-               │ ┌─────────┐  ┌───────────┐ │
-               │ │Mobile   │  │ IVR/SMS   │ │
-               │ │App      │  │ Interface │ │
-               └─────┬────┘  └─────┬─────┘
-                     │             │
-                     ▼             ▼
-               ┌───────────────────────────┐
-               │     Data Collection       │
-               │ ┌───────────────┐         │
-               │ │Farmer Inputs  │         │
-               │ │Images, Soil   │         │
-               │ └──────┬────────┘         │
-               │ ┌───────────────┐         │
-               │ │ Sensors & IoT │         │
-               │ │ Soil, Weather │         │
-               │ └──────┬────────┘         │
-               │ ┌───────────────┐         │
-               │ │ Remote Data   │         │
-               │ │ Satellite,    │         │
-               │ │ Market, Weather│        │
-               └───────┬─────────┘
-                       │
-                       ▼
-               ┌───────────────────────────┐
-               │    Processing Layer       │
-               │ ┌───────────────┐         │
-               │ │ AI/ML Models  │         │
-               │ │ Disease, Pest │         │
-               │ │ Irrigation,   │         │
-               │ │ Crop Selection│         │
-               │ └──────┬────────┘         │
-               │ ┌───────────────┐         │
-               │ │ Data Analytics│         │
-               │ │ & Integration │         │
-               └──────┬─────────┘
-                      │
-                      ▼
-               ┌───────────────────────────┐
-               │ Output / Notifications    │
-               │ Farm advice, alerts, crop │
-               │ recommendations           │
-               └──────┬─────────┘
-                      │
-                      ▼
-               ┌───────────────────────────┐
-               │       Database Layer       │
-               │ Historical data, farmer    │
-               │ profiles, advisory logs    │
-               └───────────────────────────┘
 
 
 ## Technical Approach
